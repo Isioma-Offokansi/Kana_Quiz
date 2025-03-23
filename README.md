@@ -23,9 +23,6 @@ A command-line application designed to help with practicing and testing their kn
    ```bash
    java -cp bin Main
 
-## Configuring Your Terminal for UTF-8
-To ensure proper display of Japanese Kana characters, configure your terminal or IDE to use Unicode (UTF-8).
-
 ## Project Structure
 - Main.java: Entry point of the application. Handles user input and starts the quiz.
 - Kana_Quiz.java: Contains the logic for running the quiz, generating questions, and evaluating answers.
